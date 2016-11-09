@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/ari/Documents/NavigatorReactNative/node_modules/react-native/React/Modules/RCTDevMenu.m \
+  /Users/ari/Documents/NavigatorReactNative/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/ari/Documents/NavigatorReactNative/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/ari/Documents/NavigatorReactNative/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/ari/Documents/NavigatorReactNative/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/ari/Documents/NavigatorReactNative/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/ari/Documents/NavigatorReactNative/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/ari/Documents/NavigatorReactNative/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/ari/Documents/NavigatorReactNative/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/ari/Documents/NavigatorReactNative/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/ari/Documents/NavigatorReactNative/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/ari/Documents/NavigatorReactNative/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/ari/Documents/NavigatorReactNative/node_modules/react-native/React/Base/RCTKeyCommands.h \
+  /Users/ari/Documents/NavigatorReactNative/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/ari/Documents/NavigatorReactNative/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/ari/Documents/NavigatorReactNative/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/ari/Documents/NavigatorReactNative/node_modules/react-native/React/Modules/RCTSourceCode.h \
+  /Users/ari/Documents/NavigatorReactNative/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/ari/Documents/NavigatorReactNative/node_modules/react-native/React/Base/RCTWebSocketProxy.h \
+  /Users/ari/Documents/NavigatorReactNative/node_modules/react-native/React/Base/RCTWebSocketProxyDelegate.h
