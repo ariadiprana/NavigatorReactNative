@@ -15,6 +15,9 @@ class PageThree extends React.Component {
   _handlePress(){
     this.props.navigator.pop()
   }
+  _handlePressHome(){
+    this.props.navigator.push({id:1})
+  }
   render(){
     return (
       <View style={{padding:60}}>
@@ -22,6 +25,11 @@ class PageThree extends React.Component {
         <TouchableOpacity onPress={this._handlePress.bind(this)}>
           <View style={{paddingVertical:10,paddingHorizontal:20,backgroundColor:'green'}}>
             <Text>Go to page 2</Text>
+          </View>
+        </TouchableOpacity>
+        <TouchableOpacity onPress={this._handlePressHome.bind(this)}>
+          <View style={{paddingVertical:10,paddingHorizontal:20,backgroundColor:'green'}}>
+            <Text>Back to page 1</Text>
           </View>
         </TouchableOpacity>
       </View>
