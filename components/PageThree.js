@@ -16,7 +16,8 @@ class PageThree extends React.Component {
     this.props.navigator.pop()
   }
   _handlePressHome(){
-    this.props.navigator.push({id:1})
+    //this.props.navigator.push({id:1})
+    this.props.navigator.popN(2)
   }
   render(){
     return (
